@@ -1,6 +1,6 @@
 {
     "edata.exe": {
-        "protection": ["admin"],
+        "location": ["127.0.0.1", "localhost"],
         "delayed": 2000,
         "message": [
             "Erasing data.",
@@ -14,9 +14,11 @@
     "target.exe": {
         "location": ["127.0.0.1", "localhost"],
         "message": [
-            "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
-            "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
-        ]
+            "God himself walking the world and killing the f born of the <abbr title=\"tHeY aRe NoT hUmAn\"><s>non-believers</s></abbr>."
+        ],
+        "delayed": 2000,
+        "clear": true,
+        "help": "aneyngb jntu'anty vfmxhe oberg'y gur natry pbzrf ba gur jvaq"
     },
     "artifact": {},
     "decrypt": {},
