@@ -22,16 +22,7 @@ function debugObject( obj ) {
  */
 function setHeader( msg = "⠀" ) {
     // Setting correct header icon and terminal name
-    const date = new Date();
-    if ( serverDatabase.year ) {
-        date.setYear( serverDatabase.year );
-    }
-    if ( serverDatabase.month ) {
-      date.setYear( serverDatabase.month );
-    }
-    if ( serverDatabase.day ) {
-      date.setYear( serverDatabase.day );
-    }
+    const date = new Date('March 3, 2022 18:30:30');
     const promptText = `[${ userDatabase.userName }@${ serverDatabase.terminalID }] # `;
 
     const dateStr = `${ date.getDate() }/${ ( 1 + date.getMonth() ).toString().padStart( 2, "0" ) }/${ 1900 + date.getYear() }`;
@@ -286,17 +277,12 @@ system = {
         } );
     },
 
-      /*
     date() {
         return new Promise( ( resolve ) => {
-            const date = new Date();
-            if ( serverDatabase.year ) {
-                date.setYear( serverDatabase.year );
-            }
+            const date = const date = new Date('March 3, 2022 18:30:30');;
             resolve( String( date ) );
         } );
     },
-            */
 
     echo( args ) {
         return new Promise( ( resolve ) => {
