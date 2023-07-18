@@ -279,7 +279,7 @@ system = {
 
     date() {
         return new Promise( ( resolve ) => {
-            const date = const date = new Date('March 3, 2022 18:30:30');;
+            const date = new Date('March 3, 2022 18:30:30');;
             resolve( String( date ) );
         } );
     },
