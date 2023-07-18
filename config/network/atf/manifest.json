@@ -1,5 +1,8 @@
 {
     "serverAddress": "atf",
+    "year": "2022",
+    "month": "3",
+    "day": "3",
     "serverName": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
     "iconName": "cmd.svg",
     "terminalID": "atf_hq",

@@ -26,6 +26,12 @@ function setHeader( msg = "⠀" ) {
     if ( serverDatabase.year ) {
         date.setYear( serverDatabase.year );
     }
+    if ( serverDatabase.month ) {
+      date.setYear( serverDatabase.month );
+    }
+    if ( serverDatabase.day ) {
+      date.setYear( serverDatabase.day );
+    }
     const promptText = `[${ userDatabase.userName }@${ serverDatabase.terminalID }] # `;
 
     const dateStr = `${ date.getDate() }/${ ( 1 + date.getMonth() ).toString().padStart( 2, "0" ) }/${ 1900 + date.getYear() }`;
@@ -280,6 +286,7 @@ system = {
         } );
     },
 
+      /*
     date() {
         return new Promise( ( resolve ) => {
             const date = new Date();
@@ -289,6 +296,7 @@ system = {
             resolve( String( date ) );
         } );
     },
+            */
 
     echo( args ) {
         return new Promise( ( resolve ) => {
