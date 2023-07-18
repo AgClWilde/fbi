@@ -3,7 +3,7 @@
     "serverAddress": "localhost",
     "serverName": "FBI - Criminal Investigative Division",
     "iconName": "fbi.png",
-    "terminalID": "FBI",
+    "terminalID": "FBI-CID",
     "randomSeed": true,
     "defaultUser": {
         "userId": "user",
