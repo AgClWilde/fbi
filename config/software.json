@@ -31,7 +31,7 @@
     "analyze": {
         "help": "Perform a sanity check of the system.",
         "clear": true,
-        "message": "System successfully analyzed. All clear."
+        "message": "System successfully analyzed. <p class=desync style='background-color:khaki;'> Date function in repair.</p>"
     },
     "warning": {
         "location": ["atf"],
