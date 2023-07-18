@@ -27,6 +27,11 @@
     "identify": {
         "secretCommand": true
     },
+    "analyze": {
+        "help": "Perform a sanity check of the system.",
+        "clear": true,
+        "message": "System successfullY analyzed."
+    },
     "WARNING": {
         "location": ["atf"],
         "message": [
