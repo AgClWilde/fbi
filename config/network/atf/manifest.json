@@ -15,6 +15,12 @@
             "cd ./draft",
             "edata.exe",
             "logout G.L.:nicole"
+        ],
+        "G.L.": [
+            "proton-proxy george.k.lewiston@proton.me:NicoleLewiston",
+            "cd ./draft",
+            "edata.exe",
+            "logout G.L.:nicole"
         ]
     }
 }

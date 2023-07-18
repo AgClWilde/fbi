@@ -79,7 +79,7 @@
     },
     "proton-proxy.exe":{
         "location": ["atf"],
-        "help": "Function manually disabled.",
+        "help": "Function manually disabled. Last login: george.k.lewiston@proton.me:NicoleLewiston",
         "message": "Function manually disabled.",
         "clear": true
     }
