@@ -1,8 +1,8 @@
 {
     "year": "2022",
     "month": "07",
-    "day": "18",
-    "serverAddress": "localhost",
+    "day": "15",
+    "serverAddress": "fbi",
     "serverName": "FBI - Criminal Investigative Division",
     "iconName": "fbi.png",
     "terminalID": "FBI",
