@@ -1,0 +1,38 @@
+[
+    {
+        "from": "admin",
+        "to": ["silve", "birdie", "temp"],
+        "title": "维护声明",
+        "body": "此消息适用于当局诸部门。自今日始，由于维护措施-310的实施，服务器稳定性可能受损。预测数据异常。   admin"
+    },
+    {
+        "from": "colorlessL",
+        "to": ["silve", "birdie", "temp"],
+        "title": "你要的网址。",
+        "body": "<a href='https://agclwilde.github.io/church_of_the_passover_angel/'>逾越天使教会网站在这里。</a> 以及，你们连防火墙也没有吗？  colorelssL"
+    },
+    {
+        "from": "silve",
+        "to": ["temp", "birdie","rika"],
+        "title": "资产维护",
+        "body": "让我们谈谈鼹鼠去了哪。七点生铁咖啡馆，穿得漂亮点。      Silve"
+    },
+    {
+        "from": "silve",
+        "to": ["temp", "birdie", "rika"],
+        "title": "TYD - Opera Ladybug",
+        "body": "尊敬的特工们：一场绑架案就发生在你们眼皮底下？歌剧有变，行动代号Ladybug。调查此案并救援人质。24小时内黄金救援时间内，假若你们不能扒了劫匪的底裤，我会扒了你们的。祝好。     Silve"
+    }, 
+    {
+        "from": "silve",
+        "to": ["rika"],
+        "title": "死者身份",
+        "body": "ATF确认死者为乔治·刘易斯顿。你那位查获过数个恐怖组织的退役ATF探员。我应该把你调走避嫌的——但我建议你收拾好自己的烂摊子。    Silve"
+    },
+    {
+        "from": "silve",
+        "to": ["birdie",  "rika"],
+        "title": "留神。",
+        "body": "Temp和莎·贝有故交。不要让私人情感影响工作，你们的，或他的。    Silve"
+    }
+]
