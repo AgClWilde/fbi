@@ -43,8 +43,8 @@
             "<p class=shimmer>DO NOT GIVE HER BACK TO THEM.</p>"
         ]
     },
-    "plagues_of_egypt": {
-        "protection": ["silve"],
+    "PLAGUES OF EGYPT": {
+        "protection": ["G.L"],
         "message": [
             "1. Water, which turned to blood and killed all fish and other aquatic life (Exodus 7:14–25)",
             "2. Frogs (Exodus 8:1–8:15)",
@@ -56,13 +56,24 @@
             "8. Locusts (Exodus 10:1–20)",
             "9. Darkness (Exodus 10:21–29)",
             "<p style='color:DarkRed;' class=shimmer>10. Death of the first-born of all Egyptian humans and animals. (Exodus 11, Exodus 12).</p>"
-        ],
-        "help": "Reference per your request.    Silve"
+        ]
     },
     "telnet":{
         "secretCommand": true
     },
     "bbt":{
         "location": ["tsv"]
+    },
+    "TASKS":{
+        "protection": ["G.L"],
+        "message": [
+            "- [x] 购买即食包装食品、童装、急救和洗漱用品",
+            "- [x] 儿童光碟？",
+            "- [x] 手提播放机",
+            "- [x] 安置Gabriel",
+            "- [x] 无线电扫描仪监听设置",
+            "- [x] 12号霰弹枪（Lindsay）",
+            "“以命偿命， 以眼还眼， 以牙还牙， 以手还手， 以脚还脚，以烙还烙，以伤还伤，以打还打。”"
+        ]
     }
 }
