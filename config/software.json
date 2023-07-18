@@ -32,7 +32,7 @@
     "analyze": {
         "help": "Perform a sanity check of the system.",
         "clear": true,
-        "message": "System successfully analyzed."
+        "message": "System successfully analyzed. All clear."
     },
     "warning": {
         "location": ["atf"],
