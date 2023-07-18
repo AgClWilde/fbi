@@ -20,10 +20,24 @@
         "clear": true,
         "help": "aneyngb jntu'anty vfmxhe oberg'y gur natry pbzrf ba gur jvaq"
     },
-    "artifact": {},
+    "artifact": {
+        "secretCommand": true
+    },
     "decrypt": {},
-    "identify": {},
-    "Plagues_of_Egypt":{
+    "identify": {
+        "secretCommand": true
+    },
+    "WARNING": {
+        "location": ["atf"],
+        "message": [
+            "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
+            "<p class=desync>SHADY TROUBLING MESSAGE</p>",
+            "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
+            "<p class=shimmer>NO</p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>DO NOT GIVE HER BACK.</p>"
+        ]
+    },
+    "Plagues_of_Egypt": {
         "protection": ["silve"],
         "message": [
             "1. Water, which turned to blood and killed all fish and other aquatic life (Exodus 7:14–25)",
