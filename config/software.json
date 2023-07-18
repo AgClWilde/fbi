@@ -38,10 +38,9 @@
         "location": ["atf"],
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
-            "<p class=desync>SHADY TROUBLING MESSAGE</p>",
+            "<p class=desync>NO</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
-            "<p class=shimmer>NO</p>",
-            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>DO NOT GIVE HER BACK.</p>"
+            "<p class=shimmer>DO NOT GIVE HER BACK TO THEM.</p>"
         ]
     },
     "plagues_of_egypt": {
@@ -56,7 +55,7 @@
             "7. Hail and thunder (Exodus 9:13–35)",
             "8. Locusts (Exodus 10:1–20)",
             "9. Darkness (Exodus 10:21–29)",
-            "10. Death of the first-born of all Egyptian humans and animals. (Exodus 11, Exodus 12)."
+            "<p style='color:DarkRed;' class=shimmer>10. Death of the first-born of all Egyptian humans and animals. (Exodus 11, Exodus 12).</p>"
         ],
         "help": "Reference per your request.    Silve"
     },
