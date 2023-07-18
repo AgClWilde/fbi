@@ -30,9 +30,9 @@
     "analyze": {
         "help": "Perform a sanity check of the system.",
         "clear": true,
-        "message": "System successfullY analyzed."
+        "message": "System successfully analyzed."
     },
-    "WARNING": {
+    "warning": {
         "location": ["atf"],
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
@@ -42,7 +42,7 @@
             "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>DO NOT GIVE HER BACK.</p>"
         ]
     },
-    "Plagues_of_Egypt": {
+    "plagues_of_egypt": {
         "protection": ["silve"],
         "message": [
             "1. Water, which turned to blood and killed all fish and other aquatic life (Exodus 7:14–25)",
