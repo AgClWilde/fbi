@@ -1,0 +1,31 @@
+[
+    {
+        "userId": "L.Ling",
+        "password": "trustno1",
+        "userName": "Ling, Ling"
+    },
+    
+    {
+        "userId": "E.Chen",
+        "password": "BC#F#G#",
+        "userName": "Chen, Wei Chen"
+    },
+
+    {
+        "userId": "B.Yang",
+        "password": "!jdi",
+        "userName": "Yang, Brett"
+    },
+
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+
+    {
+        "userId": "defaultUser",
+        "password": "",
+        "userName": "pub."
+    }
+]

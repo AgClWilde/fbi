@@ -1,0 +1,29 @@
+[
+    {
+        "from": "admin",
+        "to": ["E.Chen", "B.Yang"],
+        "title": "Maintenance in all servers",
+        "body": "This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance measures.    admin"
+    },
+
+    {
+        "from": "B.Yang",
+        "to": ["admin", "E.Chen"],
+        "title": "wtf",
+        "body": "Srsly? If the system is compromised then the FuckingBI is at risk.    b"
+    },
+
+    {
+        "from": "E.Chen",
+        "to": ["B.Yang"],
+        "title": "r u ok mate?",
+        "body": "What a mood. You are fine, right?    E"
+    },
+
+    {
+        "from": "B.Yang",
+        "to": ["E.Chen"],
+        "title": "Yea i'm fine",
+        "body": "Just to scare them off so they dont screw up the intranet at the opera night. Care some bbt?    b"
+    }
+]

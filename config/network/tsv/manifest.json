@@ -1,0 +1,13 @@
+{
+    "year": "2377",
+    "serverAddress": "tsv",
+    "serverName": "TSV Special Force Intranet",
+    "iconName": "tsv.png",
+    "terminalID": "FBI-0040",
+    "defaultUser": {
+        "userId": "E.Chen",
+        "password": "BC#F#G#",
+        "userName": "Chen, Eddy"
+    },
+    "randomSeed": true
+}

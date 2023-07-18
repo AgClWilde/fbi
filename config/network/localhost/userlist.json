@@ -1,31 +1,22 @@
 [
     {
-        "userId": "L.Ling",
+        "userId": "birdie#3316",
         "password": "trustno1",
-        "userName": "Ling, Ling"
+        "userName": "Peale, Joshua"
     },
-    
     {
-        "userId": "E.Chen",
-        "password": "BC#F#G#",
-        "userName": "Chen, Wei Chen"
+        "userId": "temp#7154",
+        "password": "UAintSafe",
+        "userName": "Brown, Phil"
     },
-
     {
-        "userId": "B.Yang",
-        "password": "!jdi",
-        "userName": "Yang, Brett"
+        "userId": "silve#0083",
+        "password": "20010911",
+        "userName": "Wilde, Agatha"
     },
-
     {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
-    },
-
-    {
-        "userId": "defaultUser",
+        "userId": "user",
         "password": "",
-        "userName": "pub."
+        "userName": "anonymous"
     }
 ]

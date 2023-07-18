@@ -1,13 +1,13 @@
 {
-    "year": "2377",
+    "year": "2022",
     "serverAddress": "localhost",
-    "serverName": "TSV Special Force Intranet",
-    "iconName": "tsv.png",
-    "terminalID": "FBI-0040",
+    "serverName": "FBI - Criminal Investigative Division",
+    "iconName": "fbi.png",
+    "terminalID": "FBI",
+    "randomSeed": true,
     "defaultUser": {
-        "userId": "E.Chen",
-        "password": "BC#F#G#",
-        "userName": "Chen, Eddy"
-    },
-    "randomSeed": true
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    }
 }
