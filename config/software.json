@@ -42,7 +42,7 @@
             "<p class=shimmer>DO NOT GIVE HER BACK TO THEM.</p>"
         ]
     },
-    "PLAGUES OF EGYPT": {
+    "plagues_of_egypt": {
         "protection": ["G.L."],
         "message": [
             "1. Water, which turned to blood and killed all fish and other aquatic life (Exodus 7:14–25)",
@@ -63,7 +63,7 @@
     "bbt":{
         "location": ["tsv"]
     },
-    "NOTES":{
+    "notes.txt":{
         "protection": ["G.L."],
         "message": [
             "- [x] 购买即食包装食品、童装、急救和洗漱用品",
@@ -77,9 +77,10 @@
             "<h1 style='background-color:aquamarine;'>英王钦定本《耶利米书》-《逾越天使之书》-章四</h1>"
         ]
     },
-    "proton-proxy":{
+    "proton-proxy.exe":{
         "location": ["atf"],
         "help": "Function manually disabled.",
+        "message": "Function manually disabled.",
         "clear": true
     }
 }
