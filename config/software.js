@@ -27,6 +27,11 @@ function identify() {
     } };
 }
 
+function bbt( args ) {
+    const userName = args[0] || 'stranger';
+    return `Let's grab some bubbletea after work, ${ userName }. At the old place.`;
+}
+
 function artifact( args ) {
     if ( args.length === 0 ) {
         return [ "<p>An ID must be provided: <code>artifact $id</code></p>", `You currently have access to the following artifacts: ${ Object.keys( DWEETS ).join( " " ) }` ];

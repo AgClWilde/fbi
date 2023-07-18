@@ -22,11 +22,12 @@
         "help": "aneyngb jntu'anty vfmxhe oberg'y gur natry pbzrf ba gur jvaq"
     },
     "artifact": {
-        "secretCommand": true
+        "location": ["tsv"],
+        "help": "args = 888, 1829, 1231, 10534, 5600, 629, 3822, 6494, 4342, 7495, 13326, 7979, 20584. To be added. - E.C. "
     },
     "decrypt": {},
     "identify": {
-        "secretCommand": true
+        "location": ["tsv"]
     },
     "analyze": {
         "help": "Perform a sanity check of the system.",
@@ -61,5 +62,8 @@
     },
     "telnet":{
         "secretCommand": true
+    },
+    "bbt":{
+        "location": ["tsv"]
     }
 }
