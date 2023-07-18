@@ -7,13 +7,6 @@
     },
 
     {
-        "from": "colorlessL",
-        "to": ["silve", "birdie", "temp"],
-        "title": "你要的网址。",
-        "body": "<a href='https://agclwilde.github.io/church_of_the_passover_angel/'>逾越天使教会网站在这里。</a> 以及，你们连防火墙也没有吗？  colorelssL"
-    },
-
-    {
         "from": "silve",
         "to": ["temp", "birdie","rika"],
         "title": "资产维护",
