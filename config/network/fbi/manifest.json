@@ -1,0 +1,12 @@
+{
+    "serverAddress": "fbi",
+    "serverName": "FBI - Criminal Investigative Division",
+    "iconName": "fbi.png",
+    "terminalID": "FBI",
+    "randomSeed": true,
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    }
+}
