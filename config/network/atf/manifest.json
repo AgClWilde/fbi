@@ -7,5 +7,14 @@
         "userId": "user",
         "password": "",
         "userName": "anonymous"
+    },
+    "initialHistory": {
+        "user": [
+            "login G.L.:nicole",
+            "proton-proxy george.k.lewiston@proton.me:NicoleLewiston",
+            "cd ./draft",
+            "edata.exe",
+            "logout G.L.:nicole"
+        ]
     }
 }

@@ -1,6 +1,5 @@
 {
     "edata.exe": {
-        "location": ["127.0.0.1", "localhost"],
         "delayed": 2000,
         "message": [
             "Erasing data.",
@@ -12,7 +11,7 @@
         ]
     },
     "target.exe": {
-        "location": ["127.0.0.1", "localhost"],
+        "location": ["localhost"],
         "protection": ["birdie", "temp"],
         "message": [
             "God himself walking the world and killing the f born of the <abbr title=\"tHeY aRe NoT hUmAn\"><s>non-believers</s></abbr>."
@@ -44,7 +43,7 @@
         ]
     },
     "PLAGUES OF EGYPT": {
-        "protection": ["G.L"],
+        "protection": ["G.L."],
         "message": [
             "1. Water, which turned to blood and killed all fish and other aquatic life (Exodus 7:14–25)",
             "2. Frogs (Exodus 8:1–8:15)",
@@ -65,12 +64,11 @@
         "location": ["tsv"]
     },
     "NOTES":{
-        "protection": ["G.L"],
+        "protection": ["G.L."],
         "message": [
             "- [x] 购买即食包装食品、童装、急救和洗漱用品",
             "- [x] 儿童光碟？",
             "- [x] 手提播放机",
-            "约·贝前往肯尼亚内陆——和血舌邪教有关？无罪证。",
             "- [x] 安置Gabriel",
             "逾越天使教会资助对象：ä¸­é社˜¿æ¢¦党、三月科技有限公司、å·¥å分 黑水 公司‚è®¢å•。",
             "- [x] 无线电扫描仪监听设置",
@@ -78,5 +76,10 @@
             "“以命偿命， 以眼还眼， 以牙还牙， 以手还手， 以脚还脚，以烙还烙，以伤还伤，以打还打。”",
             "<h1 style='background-color:aquamarine;'>英王钦定本《耶利米书》-《逾越天使之书》-章四</h1>"
         ]
+    },
+    "proton-proxy":{
+        "location": ["atf"],
+        "help": "Function manually disabled.",
+        "clear": true
     }
 }
