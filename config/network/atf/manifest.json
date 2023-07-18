@@ -1,0 +1,11 @@
+{
+    "serverAddress": "atf",
+    "serverName": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+    "iconName": "cmd.svg",
+    "terminalID": "atf_hq",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anon"
+    }
+}
