@@ -1,14 +1,20 @@
 [
     {
-        "userId": "8A73B5",
+        "userId": "L.Ling",
         "password": "trustno1",
-        "userName": "Mulder, Fox"
+        "userName": "Ling, Ling"
+    },
+    
+    {
+        "userId": "E.Chen",
+        "password": "BC#F#G#",
+        "userName": "Chen, Wei Chen"
     },
 
     {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
+        "userId": "B.Yang",
+        "password": "!jdi",
+        "userName": "Yang, Brett"
     },
 
     {
@@ -18,8 +24,8 @@
     },
 
     {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
+        "userId": "defaultUser",
+        "password": "",
+        "userName": "pub."
     }
 ]
