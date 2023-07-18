@@ -13,6 +13,7 @@
     },
     "target.exe": {
         "location": ["127.0.0.1", "localhost"],
+        "protection": ["birdie", "temp"],
         "message": [
             "God himself walking the world and killing the f born of the <abbr title=\"tHeY aRe NoT hUmAn\"><s>non-believers</s></abbr>."
         ],
