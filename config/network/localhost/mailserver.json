@@ -1,7 +1,7 @@
 [
     {
         "from": "admin",
-        "to": ["silve", "birdie", "temp"],
+        "to": ["silve", "birdie", "temp", "eleven", "colorlessL"],
         "title": "维护声明",
         "body": "此消息适用于当局诸部门。自今日始，由于维护措施-310的实施，服务器稳定性可能受损。预测数据异常。   admin"
     }

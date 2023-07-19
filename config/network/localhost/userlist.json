@@ -20,6 +20,11 @@
         "userName": "?, Clare"
     },
     {
+        "userId": "eleven",
+        "password": "ihatemyjob",
+        "userName": "Lee, Lennea"
+    },
+    {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
