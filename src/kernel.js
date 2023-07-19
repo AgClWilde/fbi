@@ -22,7 +22,7 @@ function debugObject( obj ) {
  */
 function setHeader( msg = "⠀" ) {
     // Setting correct header icon and terminal name
-    const date = new Date('March 7, 2024 18:30:30');
+    const date = new Date('March 7, 2024 18:57:30');
     const promptText = `[${ userDatabase.userName }@${ serverDatabase.terminalID }] # `;
 
     const dateStr = `${ date.getDate() }/${ ( 1 + date.getMonth() ).toString().padStart( 2, "0" ) }/${ 1900 + date.getYear() }`;
@@ -279,7 +279,7 @@ system = {
 
     date() {
         return new Promise( ( resolve ) => {
-            const date = new Date('March 7, 2024 18:30:30');;
+            const date = new Date('March 7, 2024 18:57:30');;
             resolve( String( date ) );
         } );
     },
