@@ -1,17 +1,5 @@
 [
     {
-        "from": "admin",
-        "to": ["silve", "birdie", "temp", "eleven", "colorlessL"],
-        "title": "维护声明",
-        "body": "此消息适用于当局诸部门。自今日始，由于维护措施-310的实施，服务器稳定性可能受损。预测数据异常。   admin"
-    },
-    {
-        "from": "silve",
-        "to": ["temp", "birdie","eleven"],
-        "title": "资产维护",
-        "body": "让我们谈谈鼹鼠去了哪。七点生铁咖啡馆，穿得漂亮点。      Silve"
-    },
-    {
         "from": "silve",
         "to": ["temp", "birdie", "eleven"],
         "title": "TYD - Opera Ladybug",
@@ -21,12 +9,12 @@
         "from": "silve",
         "to": ["eleven"],
         "title": "死者身份",
-        "body": "ATF确认死者为乔治·刘易斯顿。女士，你那位查获过数个恐怖组织的退役ATF探员，用户名G.L.。我应该把你调走避嫌的——但我建议你收拾好自己的烂摊子。    Silve"
+        "body": "Eleven: ATF确认死者为乔治·刘易斯顿。女士，你那位查获过数个恐怖组织的退役ATF探员，用户名G.L.。我应该把你调走避嫌的——但我建议你收拾好自己的烂摊子。    Silve"
     },
     {
         "from": "silve",
         "to": ["birdie",  "eleven"],
         "title": "留神。",
-        "body": "Temp和莎·贝有故交。不要让私人情感影响工作，你们的，或他的。    Silve"
+        "body": "Birdie n' Eleven: Temp和莎·贝有故交。不要让私人情感影响工作，你们的，或他的。    Silve"
     }
 ]
