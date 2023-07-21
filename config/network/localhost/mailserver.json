@@ -11,5 +11,13 @@
         "to": ["temp", "birdie","eleven"],
         "title": "资产维护",
         "body": "Temp, Birdie, n' Eleven: 让我们谈谈鼹鼠去了哪。七点生铁咖啡馆，穿得漂亮点。      Silve"
+    },
+
+    {
+        "from": "silve",
+        "to": ["eleven"],
+        "title": "行动须知",
+        "body": "Eleven: <a href='https://www.notion.so/erya-wygzzgeds/Mission-Notes-on-George-Lewiston-029b376046584ac18b5e29dfc7640e7c'>[文件] </a>   Silve"
+        
     }
 ]
